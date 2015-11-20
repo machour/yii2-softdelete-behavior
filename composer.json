@@ -1,9 +1,12 @@
 {
-	"name": "machour/yii2-softdelete-behavior",
+	"name": "machour/yii2-softdelete-trait",
 	"description": "This extension allow you to soft delete your ActiveRecord entities",
-	"keywords": ["yii", "extension", "behavior", "softdelete"],
+	"keywords": ["yii", "extension", "trait", "behavior", "softdelete"],
 	"type": "yii2-extension",
 	"license": "MIT",
+	"support": {
+		"source": "https://github.com/machour/yii2-softdelete-trait"
+	},
 	"authors": [
         {
             "name": "Mehdi Achour",
