@@ -1,0 +1,22 @@
+{
+	"name": "machour/yii2-softdelete-behavior",
+	"description": "This extension allow you to soft delete your ActiveRecord entities",
+	"keywords": ["yii", "extension", "behavior", "softdelete"],
+	"type": "yii2-extension",
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "Mehdi Achour",
+            "email": "machour@gmail.com"
+        }
+	],
+	"minimum-stability": "dev",
+	"require": {
+		"yiisoft/yii2": "*"
+	},
+	"autoload": {
+		"psr-4": {
+			"machour\\yii2\\behaviors\\": ""
+		}
+	}
+}
